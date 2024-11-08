@@ -1,0 +1,43 @@
+body{
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100vh;
+    background-color: #A6AEBF  !important;
+}
+
+
+#search {
+    width: 600px;
+    outline: none;
+    border-radius: 5px;
+    padding: 0px 10px;
+    background-color:rgb(255, 248, 222);
+    border: none;
+    font-size: 20px;
+}
+.search {
+    padding: 20px 0px;
+    /* position: fixed; */
+   
+
+}
+
+.search .btn {
+    background-color: rgb(208, 232, 197)  !important;
+    /* border: transparent; */
+    position: relative;
+    left: -30px;
+}
+.search .btn:hover {
+    background-color:rgb(197, 211, 232) !important;
+    /* border: 1px solid black; */
+}
+
+
+.card {
+    width: 300px;
+
+}
+
+
+
